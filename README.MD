@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-    Episódio 1 do podcast no [Spotify] (https://open.spotify.com/episode/4ukBE1GsmdWNBFdoHCMHo3?si=EmZslX5CSNSCe9eI8H6a1w)
+    Episódio 1 do podcast no [Spotify](https://open.spotify.com/episode/4ukBE1GsmdWNBFdoHCMHo3?si=EmZslX5CSNSCe9eI8H6a1w)
 </p>
 
 <div align="center">
