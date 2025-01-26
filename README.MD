@@ -43,8 +43,8 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
+- Copilot para gerar a imagem de capa
 - Áudio gerado pela elevenLabs
-- Copilot Para gerar capas
 
 ## 📚 Materiais
 
