@@ -56,10 +56,11 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 <img 
     src="./image for podcast.jpeg"
     width="300"
-/>
-</p>
 
 Ouça o episódio 1 do podcast *Sons do Saber* no [Spotify](https://open.spotify.com/episode/4ukBE1GsmdWNBFdoHCMHo3?si=EmZslX5CSNSCe9eI8H6a1w)
+
+/>
+</p>
 
 ## 👨‍💻 Expert
 
