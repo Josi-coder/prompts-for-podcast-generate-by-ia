@@ -59,7 +59,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 />
 </p>
 
-Ouça o episódio 1 do podcast ## Sons do Saber no [Spotify](https://open.spotify.com/episode/4ukBE1GsmdWNBFdoHCMHo3?si=EmZslX5CSNSCe9eI8H6a1w)
+Ouça o episódio 1 do podcast ***Sons do Saber*** no [Spotify](https://open.spotify.com/episode/4ukBE1GsmdWNBFdoHCMHo3?si=EmZslX5CSNSCe9eI8H6a1w)
 
 ## 👨‍💻 Expert
 
