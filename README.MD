@@ -52,15 +52,14 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 
 ## Resultado
-<p align="center">
+<p>
 <img 
     src="./image for podcast.jpeg"
     width="300"
-
-Ouça o episódio 1 do podcast *Sons do Saber* no [Spotify](https://open.spotify.com/episode/4ukBE1GsmdWNBFdoHCMHo3?si=EmZslX5CSNSCe9eI8H6a1w)
-
 />
 </p>
+
+Ouça o episódio 1 do podcast *Sons do Saber* no [Spotify](https://open.spotify.com/episode/4ukBE1GsmdWNBFdoHCMHo3?si=EmZslX5CSNSCe9eI8H6a1w)
 
 ## 👨‍💻 Expert
 
